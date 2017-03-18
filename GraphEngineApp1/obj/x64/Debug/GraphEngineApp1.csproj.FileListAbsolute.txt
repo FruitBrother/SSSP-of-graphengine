@@ -1,0 +1,6 @@
+C:\Users\lining\documents\visual studio 2015\Projects\TSLProject1\GraphEngineApp1\bin\x64\Debug\GraphEngineApp1.exe
+C:\Users\lining\documents\visual studio 2015\Projects\TSLProject1\GraphEngineApp1\bin\x64\Debug\GraphEngineApp1.pdb
+C:\Users\lining\documents\visual studio 2015\Projects\TSLProject1\GraphEngineApp1\bin\x64\Debug\Trinity.Core.dll
+C:\Users\lining\documents\visual studio 2015\Projects\TSLProject1\GraphEngineApp1\bin\x64\Debug\TSLProject1.dll
+C:\Users\lining\documents\visual studio 2015\Projects\TSLProject1\GraphEngineApp1\obj\x64\Debug\GraphEngineApp1.exe
+C:\Users\lining\documents\visual studio 2015\Projects\TSLProject1\GraphEngineApp1\obj\x64\Debug\GraphEngineApp1.pdb
