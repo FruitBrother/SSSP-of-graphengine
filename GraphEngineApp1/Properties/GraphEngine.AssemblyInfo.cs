@@ -1,1 +1,1 @@
-[assembly: TSLProject1.ImportGraphEngineExtension]
+[assembly: Trinity.Extension.GraphGenerator.ImportGraphEngineExtension]
